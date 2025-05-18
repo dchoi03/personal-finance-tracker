@@ -1,0 +1,13 @@
+# .gitignore
+# Backend
+venv/
+__pycache__/
+.env
+
+# Frontend
+node_modules/
+dist/
+.env.local
+
+# General
+.DS_Store
